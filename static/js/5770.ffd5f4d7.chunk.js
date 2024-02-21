@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknasa_team_18=self.webpackChunknasa_team_18||[]).push([[5770],{5770:(t,n,a)=>{a.d(n,{drawPolygon:()=>c});var e=a(4409);const o=180,r={x:0,y:0},u=2;function c(t,n,a){const{context:c}=t,s=a.count.numerator*a.count.denominator,l=a.count.numerator/a.count.denominator,h=o*(l-u)/l,i=Math.PI-(0,e.pu)(h);if(c){c.beginPath(),c.translate(n.x,n.y),c.moveTo(r.x,r.y);for(let t=0;t<s;t++)c.lineTo(a.length,r.y),c.translate(a.length,r.y),c.rotate(i)}}}}]);
+//# sourceMappingURL=5770.ffd5f4d7.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknasa_team_18=self.webpackChunknasa_team_18||[]).push([[5275],{5275:(a,t,s)=>{s.d(t,{drawSquare:()=>c});const e=Math.sqrt(2),n=2;function c(a){const{context:t,radius:s}=a,c=s/e,u=c*n;t.rect(-c,-c,u,u)}}}]);
+//# sourceMappingURL=5275.f3d781d4.chunk.js.map
